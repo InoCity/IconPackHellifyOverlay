@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="ic_signal_cellular_0_4_bar">false</item>
+    <item type="drawable" name="ic_signal_cellular_1_4_bar">false</item>
+    <item type="drawable" name="ic_signal_cellular_2_4_bar">false</item>
+    <item type="drawable" name="ic_signal_cellular_3_4_bar">false</item>
+    <item type="drawable" name="ic_signal_cellular_4_4_bar">false</item>
+    <item type="drawable" name="ic_signal_wifi_transient_animation">false</item>
+    <item type="drawable" name="ic_signal_wifi_transient_animation_drawable">false</item>
+    <item type="drawable" name="ic_wifi_signal_0">false</item>
+    <item type="drawable" name="ic_wifi_signal_1">false</item>
+    <item type="drawable" name="ic_wifi_signal_2">false</item>
+    <item type="drawable" name="ic_wifi_signal_3">false</item>
+    <item type="drawable" name="ic_wifi_signal_4">false</item>
+    <item type="drawable" name="dummy_ae_44">false</item>
+</resources>
