@@ -6,7 +6,6 @@
     <public type="drawable" name="ic_brightness_full" id="0x7f020003" />
     <public type="drawable" name="ic_brightness_low" id="0x7f020004" />
     <public type="drawable" name="ic_brightness_medium" id="0x7f020005" />
-    <public type="drawable" name="ic_lock" id="0x7f020006" />
     <public type="drawable" name="ic_media_next" id="0x7f020007" />
     <public type="drawable" name="ic_media_prev" id="0x7f020008" />
     <public type="drawable" name="ic_music_note" id="0x7f020009" />
